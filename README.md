@@ -13,7 +13,7 @@ Welcome to my Github Profile !!!
 .⚡ Fun fact: ...The average person spends about six months of their life waiting for red lights to turn green!
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumitdahal7)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sumitdahal7" alt="GitHub Streak" /></a>
 
 <b>Tech Stack: </b>
 <div align='center'><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
