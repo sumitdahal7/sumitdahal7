@@ -29,6 +29,6 @@ Welcome to my Github Profile !!!
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<a href="https://app.daily.dev/sumit7"><img src="https://api.daily.dev/devcards/v2/kqPhRHp64.png?type=default&r=26i" width="356" alt="Sumit Dahal's Dev Card"/></a>
+
   
 
